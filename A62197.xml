@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Satyr against the French</title>
+         </titleStmt>
+         <extent>Approx. 38KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62197</idno><idno type="EEBO-CITATION">16268208</idno>
+  <idno type="VID">105200</idno>
+  <idno type="EEBO-PROQUEST">2248527196</idno>
+  
+            <idno type="STC">Wing S714</idno>
+            <idno type="STC">ESTC R37204</idno>
+            <idno type="OCLC">16268208</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105200)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1156:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Satyr against the French</title>
+               </titleStmt>
+               <extent>[6], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd December 6, 1690."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  Social life and customs --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105200:1"/>
+            <pb facs="tcp:105200:1"/>
+            <p>A SATYR Against the FRENCH.</p>
+            <q>—<hi>Dent ocius omnes, Quas meruere pati (sic stat sententia) poenas.</hi>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENS'D,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>December</hi> 6. 1690.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed, and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:105200:2"/>
+            <pb facs="tcp:105200:2"/>
+            <head>The Epistle Dedicatory to the Ad<g ref="char:EOLhyphen"/>mirers of the <hi>FRENCH.</hi>
+            </head>
+            <p>SINCE the Sale of Paintings by Auction is grown so fashionable, I thought the Picture of a <hi>French<g ref="char:EOLhyphen"/>man</hi> might be no unacceptable Curiosity to some Persons. It is an Original, I assure you, and drawn as near to the Life as a Limner could take the Features of one danc<g ref="char:EOLhyphen"/>ing the <hi>Rigadoon;</hi> for, the <hi>French,</hi> like the Sea, are perpetually in Motion.</p>
+            <p>When the Sword is drawn, 'tis not fit the Pen should lie Idle; the tenderest hand on board a Vessel, must lend its assistance in case of a Leak, and I think it the Duty of every Man to arm against the Common Enemy.</p>
+            <p>It is not unknown by what Arts the
+<pb facs="tcp:105200:3"/>
+               <hi>French</hi> have gain'd so great a Reputa<g ref="char:EOLhyphen"/>tion in <hi>England;</hi> with the Gentlemen they can Insinuate, and Flatter the Ladies better than the thick Skull'd <hi>English;</hi> for, were there a Court consisting of but one single Person of each Country in the Ʋni<g ref="char:EOLhyphen"/>verse, the <hi>French</hi> Man would stand the fairest Candidate for the Office of Master of the Ceremonies.</p>
+            <p>Oh the Vertues of Shrug and Grimace, and the Charms of loud Laughter! <hi>Clark,</hi> the Posture-master, never knew half so many Distortions of Body, as they do; only the difference is this, his he acquired by Labour, and theirs is Na<g ref="char:EOLhyphen"/>tural to 'em.</p>
+            <p>An honest blunt Freedom of Speech and Carriage, has by our modern Accepta<g ref="char:EOLhyphen"/>tion, so much of the Clown in it, that <hi>Irish</hi> breeding has not more; but to be tickled to Death with Complements, is cer<g ref="char:EOLhyphen"/>tainly the finest way of dying that can be.</p>
+            <pb facs="tcp:105200:3"/>
+            <p>By these various Arts of Flattery, the <hi>French</hi> are grown into Esteem: And, I am the rather confirm'd in the Truth of my Opinion, because I heard a Woman of Quality once say, — <hi>That an ordinary</hi> French <hi>Footman had more Breeding and Civility, than an</hi> English <hi>Gentle<g ref="char:EOLhyphen"/>man.</hi>
+            </p>
+            <p>He who can calmly hear his own Coun<g ref="char:EOLhyphen"/>trymen so vilified, without some Emo<g ref="char:EOLhyphen"/>tion, deserves better to be toss'd in a Blanket, than the Mayor of <hi>Scarbrough.</hi> For, with <hi>Asper,</hi> in a Play of <hi>Ben Johnson</hi>'s, it becomes every <hi>English</hi> Man to say,
+<q>
+                  <l>
+                     <hi>Who can behold such Prodigies as these,</hi>
+                  </l>
+                  <l>
+                     <hi>And have his Lips seal'd up? Not I. My Soul</hi>
+                  </l>
+                  <l>
+                     <hi>Was never ground into such Oily Colours,</hi>
+                  </l>
+                  <l>
+                     <hi>To Flatter Vice, and Daub Iniquity.</hi>
+                  </l>
+                  <l>
+                     <hi>But with an armed and resolved Hand,</hi>
+                  </l>
+                  <l>
+                     <hi>I'll strip the ragged Follies of the Times</hi>
+                  </l>
+                  <l>
+                     <hi>Naked, as at their Birth. —</hi>
+                  </l>
+               </q>
+            </p>
+            <pb facs="tcp:105200:4"/>
+            <p>I profess, the Design of this Paper is only to give a right Idea of the <hi>French</hi> Humour. What is Generous and Noble in them, I honour; but am something mortified, to see Quality doat upon a Dressing, Cringing, Complementing <hi>Mon<g ref="char:EOLhyphen"/>fieur;</hi> yet I am so Charitable, as to be<g ref="char:EOLhyphen"/>lieve some esteem them as People do <hi>Merry Andrews,</hi> because they excite Laughter; or, by a Rule of Contraries, love them as Ladies do Shock-Dogs, for their Ʋgliness.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:105200:4"/>
+            <head>A SATYR Against the FRENCH.</head>
+            <lg>
+               <l>HOW bold's the Man, who dares at<g ref="char:EOLhyphen"/>tempt to write</l>
+               <l>'Gainst any thing that Charms the Appetite?</l>
+               <l>Who dares affirm, that Oysters are not Fish?</l>
+               <l>Or that Fry'd Frogs make not a dainty Dish?</l>
+               <l>Who dares find fault with any Lap-dogs Features?</l>
+               <l>Or say that Monkeys are not pretty Creatures?</l>
+               <l>He that against the Tide of Custom rows,</l>
+               <l>Will find the Waves afford him sawcy blows.</l>
+               <l>A Bishop once was made a Sacrifice,</l>
+               <l>For writing that there were <hi>Antipodes.</hi>
+               </l>
+               <pb n="2" facs="tcp:105200:5"/>
+               <l>I never yet could Flatter, nor did e'er</l>
+               <l>Write Odes in Praise of bright <hi>Clarinda</hi>'s Hair:</l>
+               <l>In Songs of Love I never yet had Skill;</l>
+               <l>My Muse is blunt, and rugged like my Quill.</l>
+               <l>Speak then, thou Solace of my vacant Hours,</l>
+               <l>Speak, <hi>Satyr,</hi> quickly, what shall we Discourse?</l>
+               <l>The Town has been already lash'd enough;</l>
+               <l>The Town, alas, is now grown <hi>Satyr</hi>-proof:</l>
+               <l>The noisie Fop, startch'd Cit, and jilting Whore,</l>
+               <l>Are Subjects have been handled o'er and o'er.</l>
+               <l>The Arts of <hi>Priestcraft,</hi> and the Tricks of State,</l>
+               <l>Did for the angry <hi>Muse,</hi> large Themes create;</l>
+               <l>No sort of Mankind having found the Skill,</l>
+               <l>To Ward the Blows intended by the Quill.</l>
+               <l>What if some common Grievance, known to all,</l>
+               <l>Should under thy Poetick Fury fall?</l>
+               <l>Those who are now the Plagues of <hi>Christendom,</hi>
+               </l>
+               <l>And scatter Mischief wheresoe'er they come;</l>
+               <l>Whom angry Nature seem'd to have design'd</l>
+               <l>To be the common Pest of Humane Kind;</l>
+               <l>The noisie, empty, fluttring <hi>French</hi> I mean,</l>
+               <l>Who should have justly our Aversion been;</l>
+               <pb n="3" facs="tcp:105200:5"/>
+               <l>Whom yet we fondly Cherish and Embrace,</l>
+               <l>Pleas'd with their modish Shrugs, and damn'd Grimace.</l>
+               <l>These Apes, these Echo's, and these shews of Men,</l>
+               <l>Shall be the present Subject of my Pen.</l>
+            </lg>
+            <lg>
+               <l>But hold — e'er my Intentions I pursue,</l>
+               <l>Methinks I hear a Voice, cry — <hi>Gardez vous,</hi>
+               </l>
+               <l>
+                  <hi>Begar me quickly make you shange your Note,</hi>
+               </l>
+               <l>
+                  <hi>You write 'gainst me, Begar me cut your Troat.</hi>
+               </l>
+               <l>Pardon me, <hi>Monsieur,</hi> whosoe'er thou art,</l>
+               <l>I at no private Person throw my Dart:</l>
+               <l>This anger on no single Head does fall,</l>
+               <l>My Bombs are thrown promiscuously at all.</l>
+               <l>If what I say can no Belief create,</l>
+               <l>But you're the very Person pointed at;</l>
+               <l>And when I paint a <hi>Fop</hi> to some degree,</l>
+               <l>Cry out, this Character intended me;</l>
+               <l>Believe so still, and in your thoughts fret on,</l>
+               <l>You give your self the Wounds, I meant you none.</l>
+            </lg>
+            <lg>
+               <l>If all be true, that common Fame does Tattle,</l>
+               <l>Of the most famous Stag'rite <hi>Aristotle;</hi>
+               </l>
+               <pb n="4" facs="tcp:105200:6"/>
+               <l>Who did himself into the Ocean throw,</l>
+               <l>Because its Flux and Ebb he could not know;</l>
+               <l>He would have much more puzled been to find,</l>
+               <l>The various Motions of a <hi>French</hi> Man's mind:</l>
+               <l>So fickle, that he thinks of nothing twice;</l>
+               <l>All Rage and Fury now, and in a trice</l>
+               <l>The Scene is chang'd, and he that just before</l>
+               <l>Confusion and Revenge in Passion swore,</l>
+               <l>Now is all tender, and his whole Discourse</l>
+               <l>Is of <hi>Intrigue, Appointments</hi> and <hi>Amours;</hi>
+               </l>
+               <l>Honour and Love, those Darlings of his Breast,</l>
+               <l>So struggle and afford so little rest;</l>
+               <l>That, like <hi>Prince Volscius</hi> in a modern Play,</l>
+               <l>He every minute inwardly does say,</l>
+               <l>
+                  <hi>Shall I to Honour; or to Love give way?</hi>
+               </l>
+               <l>
+                  <hi>Go on, crys Honour, tender Love says, Nay:</hi>
+               </l>
+               <l>
+                  <hi>Honour aloud commands, Pluck both Boots on;</hi>
+               </l>
+               <l>
+                  <hi>But softer Love does whisper, Put on none.</hi>
+               </l>
+               <l>Thus roving and unconstant is his Thought,</l>
+               <l>Which when into the shape of Words is brought;</l>
+               <l>So quick they tumble from his opening Mouth,</l>
+               <l>They one another bruise in coming forth:</l>
+               <pb n="5" facs="tcp:105200:6"/>
+               <l>Not scolding Bawds, nor Gossips when they prate,</l>
+               <l>Nor all the female Tribe of <hi>Billinsgate;</hi>
+               </l>
+               <l>Women at Christnings, Fairs, or in a Croud,</l>
+               <l>Can e'er be half so clamorous and loud,</l>
+               <l>As half a dozen <hi>French</hi> Men when they meet:</l>
+               <l>Their Tongues not only wag, but Hands and Feet.</l>
+               <l>Each part about them seems to move and walk;</l>
+               <l>Their Eyes, their Noses; nay, their Fingers talk.</l>
+               <l>So very quick they speak, that one almost</l>
+               <l>Would swear perpetual Motion were not lost.</l>
+               <l>But when a greater number meet together,</l>
+               <l>To talk of News, of Fashions, or the Weather,</l>
+               <l>With such a noise they fill each others Ears;</l>
+               <l>Like <hi>Dover</hi> Court—all speak, and no Man hears,</l>
+               <l>Their various Arts of Dress we next survey,</l>
+               <l>In which they bear so very great a sway:</l>
+               <l>All <hi>Europe</hi> to their Fashions bends the Knee,</l>
+               <l>In that they 've gain'd the <hi>Ʋniversal Monarchy.</hi>
+               </l>
+               <l>
+                  <hi>Oh Custom, Custom!</hi> how dost thou prevail?</l>
+               <l>Make us neglect the Head, but dress the Tail.</l>
+               <l>Their Modes so strangely alter humane Shape,</l>
+               <l>What Nature made a Man, they make an Ape.</l>
+               <pb n="6" facs="tcp:105200:7"/>
+               <l>The Faults of hers which they pretend to cure,</l>
+               <l>Burlesque God's Image with their Garniture.</l>
+               <l>'Tis to that Foppish Nation that we owe</l>
+               <l>Those antick Dresses that Equip a <hi>Beau:</hi>
+               </l>
+               <l>So many sorts of Rigging dress the Elf,</l>
+               <l>Himself sometimes does hardly know himself.</l>
+               <l>What Habit's thought too costly, what too dear,</l>
+               <l>To make a Man appear <hi>en Chavalier?</hi>
+               </l>
+               <l>All the fantastick Arts of Dress we know</l>
+               <l>Did first from <hi>France,</hi> that impure Fountain, flow.</l>
+               <l>They taught our Sparks to strut in <hi>Pantaloons,</hi>
+               </l>
+               <l>And look as fiercely as the <hi>French Dragoons:</hi>
+               </l>
+               <l>They made 'em cut off Ornamental Hair,</l>
+               <l>A damn'd long <hi>cherdreux Periwig</hi> to wear.</l>
+               <l>For which the Wearer is respected more</l>
+               <l>Than for grey Hairs and baldness heretofore.</l>
+               <l>A Dress thought Ominous in former Time,</l>
+               <l>Till a <hi>French</hi> Patent authoriz'd the Crime.</l>
+               <l>No Gloves but those from <hi>Blois</hi> will fit our Hand,</l>
+               <l>Our <hi>English</hi> Kid we cannot understand:</l>
+               <l>Our Home-made Lace we do not think is fine,</l>
+               <l>We doat upon <hi>French Point</hi> and <hi>Colbertine,</hi>
+               </l>
+               <pb n="7" facs="tcp:105200:7"/>
+               <l>The richest Silks we with regret put on,</l>
+               <l>If made by skilful Artists of our own:</l>
+               <l>The various Choice we value not a Farthing,</l>
+               <l>Of <hi>Pater-noster-Row</hi> and <hi>Convent Garden.</hi>
+               </l>
+               <l>But to a tawdry Stuff in <hi>Paris</hi> made,</l>
+               <l>Such store of Praise, and Moneys often paid;</l>
+               <l>Not richest Purple from the <hi>Tycian</hi> Shore,</l>
+               <l>Nor Robes from <hi>Persia</hi> are esteemed more:</l>
+               <l>Nay, we are grown so arrogantly vain,</l>
+               <l>Our Stockings must be <hi>Mill'd,</hi> our Shooes <hi>Campaign.</hi>
+               </l>
+               <l>The Ladies too are much oblig'd to <hi>France,</hi>
+               </l>
+               <l>For all their Modes and Fashions come from thence.</l>
+               <l>If at the Court of <hi>France</hi> a Tawdry Whore,</l>
+               <l>(Of Quality I mean) has something wore;</l>
+               <l>Though never so ridiculously odd,</l>
+               <l>Her putting of it on creates the Mode;</l>
+               <l>And by next Post 'tis known at our Exchange.</l>
+               <l>Top-knots were first invented by <hi>Frontange.</hi>
+               </l>
+               <l>The Ribband which is call'd the <hi>Maintanon,</hi>
+               </l>
+               <l>Was by an old <hi>French</hi> Mistrefs thought upon;</l>
+               <pb n="8" facs="tcp:105200:8"/>
+               <l>The Looking-glasses, Essences, Perfumes,</l>
+               <l>Patches, Paints, Washes, Ornaments for Rooms;</l>
+               <l>And all those Trinkets which the Ladies prize,</l>
+               <l>If not from <hi>France</hi> as Trifles they despise.</l>
+               <l>Yet stay awhile, my overhasty Muse,</l>
+               <l>Whiles <hi>French</hi> you blame, the <hi>English</hi> you accuse:</l>
+               <l>And while you would expose th'Original,</l>
+               <l>You too severely on the Copy fall.</l>
+               <l>'Tis so—and who the Method discommends?</l>
+               <l>Shooting at Foes I chance to hit my Friends.</l>
+               <l>But ah so like to Enemies they seem;</l>
+               <l>No wonder that my <hi>Satyr</hi> aim'd at them.</l>
+               <l>Yet th'<hi>English</hi> (justly hope) we may reclaim,</l>
+               <l>But <hi>French,</hi> past Grace, are likewise void of Shame.</l>
+               <l>'Twas once (I think) a Question in the Schools,</l>
+               <l>
+                  <hi>Whether that Women were indu'd with Souls?</hi>
+               </l>
+               <l>That Query once may be reviv'd again,</l>
+               <l>For he who shall observe the numerous Train</l>
+               <l>Of <hi>French,</hi> who daily for Preferment wait,</l>
+               <l>Crouding like Bees before his Lordship's Gate:</l>
+               <pb n="9" facs="tcp:105200:8"/>
+               <l>How tamely patient, slavishly servile</l>
+               <l>They mind each Nod, and fawn at every smile,</l>
+               <l>Must think that Nature by some other Art</l>
+               <l>Supply'd the want of that immortal Part.</l>
+               <l>To basest Offices they'll condescend,</l>
+               <l>To make the meanest Courtier be their Friend,</l>
+               <l>And can outwatch a Pimp to gain their End.</l>
+               <l>If they but wriggle in his Lordship's Ear,</l>
+               <l>Their Project gain'd, they learn to domineer:</l>
+               <l>For none so vainly haughty, proudly brave,</l>
+               <l>As who before Preferment was a Slave.</l>
+               <l>Their abject Souls no moderation know;</l>
+               <l>Preferr'd they swell, in Misery they bow;</l>
+               <l>They're always else too high, or else too low.</l>
+               <l>Their levity of Mind is such, that none,</l>
+               <l>Came ever near 'em in comparison,</l>
+               <l>Frisking they gaze on every Face they meet,</l>
+               <l>And dance a Galliard when they walk the Street.</l>
+               <l>If any serious thinking seize their Mind,</l>
+               <l>A Violin will chase away the Fiend.</l>
+               <l>For Persons bit by the <hi>Tarantula,</hi>
+               </l>
+               <l>Cannot be half so frolicksom as they.</l>
+               <pb n="10" facs="tcp:105200:9"/>
+               <l>They never yet could time for thinking find,</l>
+               <l>They never look before, nor yet behind:</l>
+               <l>If but this moment they with Ease are blest,</l>
+               <l>Let over-ruling Fate secure the rest.</l>
+               <l>Such Slaves they are to Arbitrary Power</l>
+               <l>(Which like a sweeping Plague does all devour)</l>
+               <l>That let their Prince command their whole Estate,</l>
+               <l>Their Persons, Lands, Wives, Children, and what not,</l>
+               <l>They tamely passive, quietly submit,</l>
+               <l>And part with what by Nature was their Right.</l>
+               <l>They'd rather live in Want and Slavery,</l>
+               <l>Then make one bold Attempt for Liberty.</l>
+               <l>Like <hi>Hebrew</hi> Servants when their Ears were bor'd,</l>
+               <l>They then for ever were to serve their Lord.</l>
+               <l>Oh <hi>France!</hi> how feebly happy is thy State?</l>
+               <l>What daily Blessings on thy Country wait?</l>
+               <l>Thy King with all those noble Vertues blest,</l>
+               <l>Which ever yet adorn'd a Tyrants Breast:</l>
+               <l>One, who against all the World has drawn his Sword,</l>
+               <l>And thinks it Childish for to keep his Word:</l>
+               <pb n="11" facs="tcp:105200:9"/>
+               <l>That treats his Subjects worse than they their Dogs;</l>
+               <l>He, like to <hi>Aesop</hi>'s Stork, and they the Frogs.</l>
+               <l>The Bully of Mankind, all <hi>Europe</hi>'s Rod;</l>
+               <l>The worst of Tyrants, and the Scourge of God:</l>
+               <l>Thy Nobles beggar'd both in Mind and Purse,</l>
+               <l>Thy Clergy Blockheads, and thy Laymen worse:</l>
+               <l>Thy Country ruin'd, destitute of Treasure,</l>
+               <l>And all to please a haughty Tyrant's Pleasure.</l>
+               <l>Who but his Will, no other Law does know;</l>
+               <l>
+                  <hi>It shall be thus, because he'll have it so.</hi>
+               </l>
+               <l>His Subjects ruin'd, and by Wrongs opprest,</l>
+               <l>To different Countries fly to seek for rest.</l>
+               <l>Some Thousands to our Island find their Way.</l>
+               <l>Ah! had they sailed to <hi>America!</hi>
+               </l>
+               <l>On all our Shores our Charity reliev'd 'em,</l>
+               <l>And as our suffering Brethren we receiv'd 'em.</l>
+               <l>But as the Snake benumb'd with Winter's cold,</l>
+               <l>Made warm by heat grows impudently bold;</l>
+               <l>And at that bosom darts his pointed Sting,</l>
+               <l>Which did him to his former Vigour bring.</l>
+               <l>So they returns of Gratitude have made,</l>
+               <l>By undermining of our Nations Trade:</l>
+               <pb n="12" facs="tcp:105200:10"/>
+               <l>So cheap they Work, as if they were design'd,</l>
+               <l>
+                  <hi>Chameleon</hi> like, to feed upon the Wind.</l>
+               <l>They live upon such Course and Homely Fare,</l>
+               <l>As if they Hermits of the Mountains were.</l>
+               <l>A Pound of Bacon and a Bunch of Leeks</l>
+               <l>Will serve a <hi>French</hi> Man's Family some Weeks:</l>
+               <l>But when they would Regale and dine in State,</l>
+               <l>Cow-heels and Onions does effect the feat.</l>
+               <l>Our <hi>English</hi> Artists cannot live so mean,</l>
+               <l>Nor think a wild-fill'd Table is a Sin;</l>
+               <l>Yet they must sell as cheap as <hi>Monsieur</hi> does,</l>
+               <l>Or beg or starve, which they will please to chuse.</l>
+               <l>Hard Fate, that Fugitives should have the Rule,</l>
+               <l>And to the <hi>French</hi> the <hi>English</hi> go to School,</l>
+               <l>To learn the Arts of Thrift, which is no more,</l>
+               <l>To be content though Indigent and Poor.</l>
+               <l>Mistake me not, I do not Vertue blame,</l>
+               <l>Nor on Content affix an odious Name;</l>
+               <l>But yet in them it seems to be a Vice,</l>
+               <l>They grovling lie, because they dare not rise.</l>
+               <l>Ambition is a Vertue duely us'd;</l>
+               <l>It then becomes a Vice when 'tis abus'd.</l>
+               <pb n="13" facs="tcp:105200:10"/>
+               <l>Their Ancestors they say were Slaves before 'em,</l>
+               <l>And they'll be so, because their Mother bore 'em.</l>
+               <l>If from small things to greater we ascend,</l>
+               <l>When did we ever find of <hi>France</hi> a Friend?</l>
+               <l>When we our ancient Histories turn o'er,</l>
+               <l>And ask our Fathers what was done before;</l>
+               <l>They'll tell us of their cursed Breach of Leagues,</l>
+               <l>State Artifice and Politick Intrigues.</l>
+               <l>But if to nearer Times we make approach,</l>
+               <l>When in our late Engagements with the <hi>Dutch;</hi>
+               </l>
+               <l>Their promis'd Friendship greedily we sought,</l>
+               <l>And they their Squadrons on the Ocean brought,</l>
+               <l>When <hi>Dutch</hi> and <hi>English</hi> were engag'd in view,</l>
+               <l>They tack'd about and modestly withdrew,</l>
+               <l>Standing at distance to observe the Fight,</l>
+               <l>And not advance to help us when they might.</l>
+               <l>It was by their Advice the War begun,</l>
+               <l>And when engag'd, 'twas they who set us on,</l>
+               <l>And cry'd Halloo — much pleas'd to think how far</l>
+               <l>Their Interest gain'd by that Unnat'ral War.</l>
+               <pb n="14" facs="tcp:105200:11"/>
+               <l>How fatal since has all their Friendship been,</l>
+               <l>The sad Effects of which who has not seen?</l>
+               <l>The <hi>English</hi> Court in Luxury and Eafe,</l>
+               <l>They by new Projects and Inventions please;</l>
+               <l>Debauch'd with Idleness, and with Plenty drunk,</l>
+               <l>We sent our Guinneas, and they sent us Punck.</l>
+               <l>Oh <hi>Po—th, Po—th,</hi> first of all thy Trade,</l>
+               <l>Hadst thou at Nurse been starv'd or over-laid;</l>
+               <l>With Reverence to thy once admir'd Bum,</l>
+               <l>Half of those Ills we felt had never come:</l>
+               <l>Thy Triumphs no mean Presents must adorn,</l>
+               <l>A Thousand Guinneas every <hi>Monday</hi> Morn,</l>
+               <l>Bow'd to the Magick of thy Charming Face,</l>
+               <l>Our own, thy Sex's, and the World's Disgrace.</l>
+               <l>With thee there did a num'rous Train resort;</l>
+               <l>The <hi>French,</hi> those Frogs and Locusts of the Court.</l>
+               <l>The Plague of Lice in <hi>Aegypt</hi> made no stay,</l>
+               <l>
+                  <hi>Moses</hi> but wav'd his Wand — they went away:</l>
+               <l>But yet those Vermine of the <hi>Gallick</hi> Shore,</l>
+               <l>The more they are suppress'd, increase the more.</l>
+               <l>We shortly must our Native Speech forget,</l>
+               <l>And every Man appear a <hi>French Coquett.</hi>
+               </l>
+               <pb n="15" facs="tcp:105200:11"/>
+               <l>Upon the Tongue our <hi>English</hi> sounds not well,</l>
+               <l>But — <hi>O Monsieur la langue Francoise est belle.</hi>
+               </l>
+               <l>Their Language (say they) has such pretty Airs,</l>
+               <l>And ours is <hi>Gothick,</hi> if compar'd with theirs.</l>
+               <l>The <hi>French</hi> by Arts of smooth insinuation</l>
+               <l>Are now become the Darlings of the Nation;</l>
+               <l>That <hi>Gentleman</hi> does much himself forget,</l>
+               <l>Who in his Chamber has not <hi>French Vallet:</hi>
+               </l>
+               <l>The <hi>English</hi> are all Clowns without pretence,</l>
+               <l>But <hi>Monsieur</hi> Dresses <hi>a La-Negligence;</hi>
+               </l>
+               <l>
+                  <hi>Careens</hi> a Wig with so divine a Grace,</l>
+               <l>What Lady can withstand a well-drest Face?</l>
+               <l>For <hi>English</hi> Blockheads are in Dress so Course,</l>
+               <l>They're fit for nothing but to rub a Horse.</l>
+               <l>She must be thought ill-manner'd or ill-bred</l>
+               <l>Whose <hi>Woman, Confident,</hi> or <hi>Chambermaid.</hi>
+               </l>
+               <l>Did not in <hi>France</hi> suck in her first-breath'd Air,</l>
+               <l>Or did not gain her Education there.</l>
+               <l>Our Cooks in dressing have no Skill at all,</l>
+               <l>They're only fit to serve an Hospital,</l>
+               <l>Or to prepare a Dinner for a Camp;</l>
+               <l>The <hi>French</hi> are only of the modish Stamp.</l>
+               <pb n="16" facs="tcp:105200:12"/>
+               <l>There was a time, the jolly <hi>English</hi> Board</l>
+               <l>Was with plain drest, but various plenty stor'd;</l>
+               <l>But ah! that Custom's vanish'd, and supply'd</l>
+               <l>With Dishes which few Mankind knew beside;</l>
+               <l>With <hi>Soops</hi> and <hi>Fricasies, Ragou's, Pottage,</hi>
+               </l>
+               <l>Which, like to Spurs, do Nature urge to Rage,</l>
+               <l>Provoke the Blood, which gently boil'd before,</l>
+               <l>So to ferment, as ready to run o'er.</l>
+               <l>Their poignant Sauces do old Age prevent,</l>
+               <l>And we are poison'd with our own Consent.</l>
+               <l>Nay, a <hi>French</hi> Boy, all Confidence, no Beard,</l>
+               <l>Before an <hi>English</hi> Stripling is preferr'd,</l>
+               <l>To be Supporter of my Lady's Train.</l>
+               <l>When shall we from Stupidity refrain?</l>
+               <l>To <hi>Solomon,</hi> tho' <hi>Apes</hi> and <hi>Peacocks</hi> came,</l>
+               <l>The <hi>Gold</hi> of <hi>Ophir</hi> too was sent with them.</l>
+               <l>But all the Lading which the <hi>French</hi> bring o'er</l>
+               <l>Are of all <hi>Complements</hi> a numerous store.</l>
+               <l>A sort of Speech so fashionable grown,</l>
+               <l>Who knows it not is reckon'd as a Clown:</l>
+               <l>A Gally with her Fifty Oars a side</l>
+               <l>Won't hold my humble Slaves who take a Pride</l>
+               <pb n="17" facs="tcp:105200:12"/>
+               <l>In the small space of two reputed Hours,</l>
+               <l>Meeting or Parting, or in mix'd Discourse,</l>
+               <l>Who loudly all protest, Oh, Sir, I'm your's.</l>
+               <l>'Twas from the <hi>French</hi> we learn'd the noble Art,</l>
+               <l>To make the Tongue to contradict the Heart.</l>
+               <l>One tells me he's my Servant to command,</l>
+               <l>Who the same moment wishes I were hang'd.</l>
+               <l>Another hopes to see me in my Grave,</l>
+               <l>Yet swears he is my most obedient Slave.</l>
+               <l>
+                  <hi>Plain-Dealing,</hi> whither, whither art thou fled?</l>
+               <l>If on some distant Shore thou hidst thy Head,</l>
+               <l>We in Exchange will all the <hi>Monsieurs</hi> send,</l>
+               <l>That we may so redeem our absent Friend.</l>
+               <l>'Tis not enough it seems we rev'rence shew</l>
+               <l>To our <hi>French Masters</hi> mimick, all they do,</l>
+               <l>But we must fansie their Diseases too.</l>
+               <l>He an accomplish'd Person cannot be,</l>
+               <l>Who knows not what it is to have <hi>chaud pisse.</hi>
+               </l>
+               <l>
+                  <hi>Cordee</hi> and <hi>Shankers,</hi> and the painful <hi>Node</hi>
+               </l>
+               <l>Are, be our Spark's reputed <hi>Alamode.</hi>
+               </l>
+               <l>More Noble they esteem venereal Scars,</l>
+               <l>Than Wounds receiv'd in honourable Wars.</l>
+               <pb n="18" facs="tcp:105200:13"/>
+               <l>He to Gentility but vainly climbs,</l>
+               <l>Unless he has been Clapp'd a dozen Times:</l>
+               <l>And fallen Nose enobles a Man more</l>
+               <l>Than all those Arms which his Fore-fathers wore.</l>
+               <l>Forgive, <hi>Dear Countrymen,</hi> my Satyrs Rage;</l>
+               <l>But who does such a pow'rful Foe engage,</l>
+               <l>Must not with them alone commence a War,</l>
+               <l>But let no pity the Confederates spare;</l>
+               <l>Yet Quarter will to no one be deny'd,</l>
+               <l>If he in time forsakes the other side.</l>
+               <l>A Friend's Reproof we kindly should receive,</l>
+               <l>And not the Giver as our Foe believe.</l>
+               <l>As Surgeons, finding Lenitives prove vain,</l>
+               <l>Apply sharp Causticks to the growing Pain.</l>
+               <l>But now methinks I see a Youth advance,</l>
+               <l>Ready prepar'd to make the <hi>Tour</hi> of <hi>France.</hi>
+               </l>
+               <l>Travel, 'tmust be confest without controul,</l>
+               <l>Is a most brave Ambition of the Soul;</l>
+               <l>Informs our Judgment, gratifies our Sence,</l>
+               <l>And on our Mind has general Influence:</l>
+               <l>But such false Mediums do our Fansy fill,</l>
+               <l>We rarely can distinguish Good from Ill.</l>
+               <pb n="19" facs="tcp:105200:13"/>
+               <l>If naturally vain, we can't suppose</l>
+               <l>A sight of <hi>France,</hi> will make us serious.</l>
+               <l>Whoe'er went thither, and return'd again,</l>
+               <l>But had a little of their frisking vein?</l>
+               <l>If not with Judgments pois'd our Minds will fly</l>
+               <l>To every new uncommon Vanity.</l>
+               <l>And he who to his Fansy puts no stop,</l>
+               <l>Goes out a Fool, and may return a Fop.</l>
+               <l>And after he Six Months in <hi>France</hi> has been,</l>
+               <l>Comes home a most accomplish'd <hi>Harlequin,</hi>
+               </l>
+               <l>Drest in a tawdry Suit at <hi>Paris</hi> made,</l>
+               <l>For which he more than thrice the value paid;</l>
+               <l>Attended by a young <hi>petit Garçon,</hi>
+               </l>
+               <l>Who from his Cradle was an arch <hi>Fripon.</hi>
+               </l>
+               <l>Nothing but <hi>French</hi> is utter'd from his Mouth,</l>
+               <l>His Native Tongue is rugged and uncouth.</l>
+               <l>If to the Ladies he does make <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vance,</l>
+               <l>His very Looks must have the <hi>Air</hi> of <hi>France.</hi>
+               </l>
+               <l>The <hi>English</hi> are so heavy and so dull,</l>
+               <l>As with Lead, not Brains, their Heads were full.</l>
+               <l>But the brisk <hi>French</hi> Man, by his subtle Art</l>
+               <l>Soon finds the way to any Lady's Heart.</l>
+               <pb n="20" facs="tcp:105200:14"/>
+               <l>Pardon me, Beauties of the <hi>English</hi> Court,</l>
+               <l>If of your Thoughts I make a false Report:</l>
+               <l>Although of all my Satyr says not true,</l>
+               <l>Yet it must be confest it strikes a few;</l>
+               <l>Witness the Tears which some of you let fall</l>
+               <l>At th' Execution of the Thief <hi>Du Vall:</hi>
+               </l>
+               <l>That High-way Villain had more blubber'd Eyes</l>
+               <l>Attend his just untimely Obsequies,</l>
+               <l>Than e'er were known to wash the Tomb of one</l>
+               <l>Who had good Service for his Country done;</l>
+               <l>While unobserv'd his worthy Ashes lie,</l>
+               <l>
+                  <hi>Du Vall</hi> remains still fresh in Memory.</l>
+               <l>Not fumes of Frankincense, nor odorous Myrrh,</l>
+               <l>Nor <hi>Indian</hi> Spices, nor the Tears of Firr,</l>
+               <l>Can half so please the Scent, as does the Name,</l>
+               <l>
+                  <hi>Du Vall</hi>—sound grateful to some pitious Dame</l>
+               <l>What Charms, i'th' Name of Wonder, can there be</l>
+               <l>In admired <hi>French</hi> Mens Company?</l>
+               <l>Of Love, they only understand the Name;</l>
+               <l>They've all the smoke, indeed, but not the flame.</l>
+               <pb n="21" facs="tcp:105200:14"/>
+               <l>Apish in Dress, Fantastick in Behaviour,</l>
+               <l>They Dance and Sing into a Lady's Favour.</l>
+               <l>Their Flatteries so nauseously they use,</l>
+               <l>That they the very Talent serve t'abuse:</l>
+               <l>And she must be but little Vertue-proof,</l>
+               <l>Who can be taken with such fulsom Stuff.</l>
+               <l>Their Souls unto their <hi>Mistresses</hi> they Pawn,</l>
+               <l>With Complements as thin as Cob-web Lawn.</l>
+               <l>Lean empty-Sence they make for Sterling pass,</l>
+               <l>Make that appear for Gold which is but Brass.</l>
+               <l>I pity from my Soul th'Unhappy Maid,</l>
+               <l>Who by such poor pretences is betray'd;</l>
+               <l>Like <hi>foolish Indians,</hi> she her Vertue sells</l>
+               <l>For painted Glass, and pretty colour'd Shells;</l>
+               <l>While he o'er all her Charms does wildly range,</l>
+               <l>And glories in the fortunate exchange.</l>
+               <l>For Words no Man can be at great Expence,</l>
+               <l>But ev'ry Man should take some pains for Sence:</l>
+               <l>For this the <hi>French</hi> do take but little Care;</l>
+               <l>If modish in the Phrase their Words appear,</l>
+               <l>They're satisfied if Sence is thin as Air.</l>
+               <pb n="22" facs="tcp:105200:15"/>
+               <l>With this, what Executions do they do</l>
+               <l>Amongst the Ign'rant and Unthinking few;</l>
+               <l>Who will no Wisdom but in Noise admit,</l>
+               <l>And think loud Laughter does denote a Wit.</l>
+               <l>Not Victors proud of all the Spoils they've won,</l>
+               <l>At storming of some Refractary Town,</l>
+               <l>More loudly cannot of their Conquests Glory;</l>
+               <l>Than will a <hi>French</hi> Man in a florid Story,</l>
+               <l>Relate the Favours of his Charming Fair;</l>
+               <l>How kind, how melting, and how sweet they were;</l>
+               <l>What Arts he us'd her Vertue to betray,</l>
+               <l>And how on such a lucky, lucky Day,</l>
+               <l>Or rather Night, he stole to her dear Arms;</l>
+               <l>And, like a God encircled round with Charms,</l>
+               <l>Revell'd in Bliss.—Nay more, perhaps, he tells</l>
+               <l>Her Name, and where th'obliging Goddess dwells.</l>
+               <l>Curst, doubly curst be him who makes pretence,</l>
+               <l>To Secresie — yet has for's Tongue no fence,</l>
+               <l>But's troubled with the Mouth's incontinence.</l>
+               <l>Rather to Crouds, the Echo, or the Wind</l>
+               <l>I'd trust my Thoughts, than to a <hi>French</hi> Man's Mind.</l>
+               <pb n="23" facs="tcp:105200:15"/>
+               <l>Who's not content my Vertue to undo,</l>
+               <l>Unless he spoils my Reputation too.</l>
+            </lg>
+            <lg>
+               <l>Inconstancy a Vice he so much loves,</l>
+               <l>Which daily by his Practice he approves;</l>
+               <l>That, if you will believe his own Report,</l>
+               <l>The mighty Sultan of the <hi>Turkish</hi> Court,</l>
+               <l>In his <hi>Seraglio,</hi> under Lock and Key,</l>
+               <l>Has not so many <hi>Mistresses</hi> as he.</l>
+               <l>For such a numerous store of Female Friends</l>
+               <l>He has, or else to have at least pretends:</l>
+               <l>That should one Day i'th' Year allotted be</l>
+               <l>For visiting of but one single <hi>She,</hi>
+               </l>
+               <l>While Twelve pale Moons gave light to the dark Ball,</l>
+               <l>He could not have an interview with all.</l>
+               <l>As <hi>Romish Saints</hi> doe croud a Kalendar,</l>
+               <l>He has she-Saints for ev'ry Day i'th' Year;</l>
+               <l>To whom he offers up the <hi>Sacrifice</hi>
+               </l>
+               <l>Of broken Vows and open Perjuries:</l>
+               <l>You may as well perswade him that two Eyes,</l>
+               <l>Two Ears, two Arms, are superfluities,</l>
+               <l>As make him think one Mistress can suffice.</l>
+               <pb n="24" facs="tcp:105200:16"/>
+               <l>To calm the raging of his fev'rish blood,</l>
+               <l>Dull Faith to one he never understood.</l>
+               <l>He, as if born the Women to command,</l>
+               <l>
+                  <hi>Scatters his Maker's Image through the Land.</hi>
+               </l>
+               <l>Tir'd with City Pleasures, if he please,</l>
+               <l>His Suburb Mistress quickly gives him ease.</l>
+               <l>Thus in a Circle of variety,</l>
+               <l>He ev'ry day does some new Project try:</l>
+               <l>To each new Face he does his Top-sail strike;</l>
+               <l>As fickle things love always with their like.</l>
+               <l>Oh <hi>Oldham, Oldham,</hi> wonder of our Age,</l>
+               <l>Had Death but spar'd thy true Poetick Rage,</l>
+               <l>What biting Satyrs had thy Pen produc'd,</l>
+               <l>Which in the <hi>English</hi> Minds might have infus'd</l>
+               <l>A just true value for their Native Soil,</l>
+               <l>And not to Mud and Slime have ow'd a smile?</l>
+               <l>Which warm'd by Favour, instantly there springs</l>
+               <l>Insects of various Sorts, with Claws and Wings;</l>
+               <l>Who buzzing on all Parts about our Shore,</l>
+               <l>As th' Plague of Flies in <hi>Aegypt</hi> heretofore;</l>
+               <l>Wriggle in great Mens Ears, and hunt about</l>
+               <l>To find a merited Preferment out:</l>
+               <pb n="25" facs="tcp:105200:16"/>
+               <l>While needy Worth, and bashful Merit starves;</l>
+               <l>And he's alone unhappy that deserves</l>
+               <l>A better Usage from the Hand of Fate.</l>
+               <l>No wonder 'tis that Fools are fortunate:</l>
+               <l>Their Confidence, their want of Wit supplies;</l>
+               <l>He's born to be a Wretch who will be wise.</l>
+               <l>Thy Satyr, <hi>Oldham,</hi> would have scar'd 'em more</l>
+               <l>Than did our Arms their Fathers heretofore.</l>
+               <l>Happy would he be could a Vessel find,</l>
+               <l>From hence they'd fly as swift as thought or wind,</l>
+               <l>And leave not one poor <hi>Vallet</hi> here behind.</l>
+               <l>But ah! in vain their absence we implore,</l>
+               <l>So very well they love the <hi>English</hi> Shore;</l>
+               <l>As soon they'd go to <hi>China</hi> or <hi>Japan,</hi>
+               </l>
+               <l>As willingly return to <hi>France</hi> again:</l>
+               <l>Though Nature has with Plenty blest their Soil,</l>
+               <l>They dare not taste of that for which they toil.</l>
+               <l>No wonder then our <hi>Canaan</hi> they preferr,</l>
+               <l>Before there fordid Entertainment there.</l>
+               <l>But hold, methinks I hear a Person prate,</l>
+               <l>They more deserve your Pity than your Hate.</l>
+               <pb n="26" facs="tcp:105200:17"/>
+               <l>Thanks to the Author of this good Advice;</l>
+               <l>But pity in Extremes becomes a Vice:</l>
+               <l>Because the Weather's cold must I, I pray,</l>
+               <l>St. <hi>Martin</hi>-like give half my Cloak away?</l>
+               <l>And cause I see my Neighbours feet are bare,</l>
+               <l>Pull off my Shooes and give 'em him to wear?</l>
+               <l>If Charity and Alms I must allow,</l>
+               <l>I'll be inform'd to whom, and when, and how.</l>
+               <l>I never yet could find the Law commands</l>
+               <l>Me fire my House, to warm by-standers Hands.</l>
+               <l>Besides, what Gratitude have they repaid,</l>
+               <l>For all the kind Civilities they've had?</l>
+               <l>If to debauch our Court, and spoil our Trade</l>
+               <l>Be suitable returns for Favours past,</l>
+               <l>I think indeed we're paid in full at last:</l>
+               <l>And he must have no Choler or no Brains,</l>
+               <l>Who, thinking on our two last Monarch's Reigns,</l>
+               <l>Against the <hi>French</hi> his just Resentment spares.</l>
+               <l>The first of these, who lov'd to feel no Cares,</l>
+               <l>But lead a Life of Softness mixt with Ease:</l>
+               <l>With Presents of <hi>French</hi> Mistresses they please.</l>
+               <pb n="27" facs="tcp:105200:17"/>
+               <l>These <hi>Dalilahs</hi> his Bosom Secrets knew,</l>
+               <l>And had the Cunning to improve 'em too.</l>
+               <l>What Mind can phansy, or what Pen rehearse</l>
+               <l>The Ruines done by these Smock-Privateers?</l>
+               <l>These Female Frigats did more Mischiefs scatter,</l>
+               <l>By their low tire of Guns 'twixt wind and water,</l>
+               <l>Than could the Fleet in Eighty-eight have done,</l>
+               <l>Had they effected what they had begun,</l>
+               <l>And with Success had push'd their Fortune on.</l>
+               <l>To build their Ships the <hi>French</hi> our Timber bought,</l>
+               <l>Which with such Pride upon the Ocean float;</l>
+               <l>And like their Makers Minds are still in Motion,</l>
+               <l>Whiles <hi>Lewis</hi> Glories in the empty Notion,</l>
+               <l>Of being stil'd, <hi>The Neptune of the Ocean.</hi>
+               </l>
+               <l>Hearing his Name, my <hi>Satyr</hi> boyls with Rage,</l>
+               <l>
+                  <hi>Lewis</hi> the <hi>Plague</hi> and <hi>Firebrand</hi> of the Age,</l>
+               <l>Whom Nature in an angry Humour hurl'd</l>
+               <l>Down as a fit Fiend to vex the Christian World:</l>
+               <l>So much he of Hells Malice does partake,</l>
+               <l>He Mischief purely does for Mischiefs sake.</l>
+               <l>So exquisitely bad, so prone to evil,</l>
+               <l>He seems not like, but surely is the Devil:</l>
+               <pb n="28" facs="tcp:105200:18"/>
+               <l>For humane Wit could never so deceive,</l>
+               <l>Nor Princes of their Sences so bereave,</l>
+               <l>To make them contrary to known sworn Laws,</l>
+               <l>Hoodwink'd to second his most Hellish Cause.</l>
+               <l>This the <hi>Ʋnhappy James</hi> but knows too late;</l>
+               <l>
+                  <hi>James,</hi> who was once the Brave and Fortunate;</l>
+               <l>Belov'd at Home, and much esteem'd Abroad,</l>
+               <l>While he in Honours Paths securely trod:</l>
+               <l>But leaving them for some new uncouth ways,</l>
+               <l>His Subjects Ruines, and himself betrays;</l>
+               <l>Still he with Glory might have fill'd the Throne,</l>
+               <l>If by <hi>French</hi> means he had not plainly shown</l>
+               <l>Their Interest was much dearer than his own.</l>
+               <l>The Injur'd <hi>Leopold</hi> may next complain,</l>
+               <l>While <hi>Spire</hi> and <hi>Worms,</hi> besides a num'rous train</l>
+               <l>Of other Towns in heaps of Ruins bear</l>
+               <l>The favours of a <hi>French</hi> perfidious War;</l>
+               <l>Nor does the <hi>Duke of Savoy</hi> want his share.</l>
+               <l>Had <hi>Fistula in ano</hi> been but kind,</l>
+               <l>And took away this <hi>pest</hi> of Humane kind,</l>
+               <l>The Peace of <hi>Christendom</hi> had been secur'd,</l>
+               <l>And not have felt those ills she since endur'd.</l>
+               <pb n="29" facs="tcp:105200:18"/>
+               <l>Of what great Actions do they vainly boast,</l>
+               <l>Done by their <hi>Fleet</hi> upon our <hi>British</hi> Coast?</l>
+               <l>Not fam'd <hi>Lepanto</hi>'s Fight was talk'd of more,</l>
+               <l>Or <hi>Wars of Cyprus</hi> in the Days of yore,</l>
+               <l>Than their late silly Action on our Shore.</l>
+               <l>Their Cannon beat a little Cottage down,</l>
+               <l>And they will swear that they destroy'd a Town.</l>
+            </lg>
+            <lg>
+               <l>Poets have sometimes been Prophetick thought,</l>
+               <l>By Lines which were in mystick numbers wrought.</l>
+               <l>Vainly I wish, tho' fain wou'd be inspir'd,</l>
+               <l>Yet with uncommon heat my Breast is fir'd.</l>
+               <l>Methinks with an unusual bravery,</l>
+               <l>I see our <hi>English Fleet</hi> upon the Sea,</l>
+               <l>Directly Sailing for the Coast of <hi>France,</hi>
+               </l>
+               <l>To pay some Favours we receiv'd from thence:</l>
+               <l>With <hi>Roman Courage</hi> see our <hi>Souldiers</hi> Land,</l>
+               <l>All waiting with impatience the Command;</l>
+               <l>While the Confederate Forces all as one</l>
+               <l>Unite to pull the Tyrant from his Throne.</l>
+               <l>Cursing his Fate, methinks I see him fall,</l>
+               <l>And grin to hear the <hi>Furies</hi> for him call.</l>
+               <pb n="30" facs="tcp:105200:19"/>
+               <l>But this, you'll say, is like a Madman done,</l>
+               <l>To sound a Triumph ere the Fight is won;</l>
+               <l>Yet this I care not, did all Mankind know;</l>
+               <l>From th' bottom of my Heart I wish it so.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
